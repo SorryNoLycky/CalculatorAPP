@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="divide_zero">Нельзя делить на ноль</string>
+    <string name="TextView1">Ввести 1 число</string>
+    <string name="TextView2">Ввести 2 число</string>
+    <string name="textOperation">Ввести операцию</string>
+    <string name="TextResult">Результат:</string>
+    <string name="button">Посчтитать</string>
+    <string name="null_data">Вы не заполнили все поля</string>
+    <string name="wrong_operation">Проверьте операцию, доступны: +,-,*,/</string>
+    <string name="wrong_format">Проверьте корректность введенных данных</string>
+
+</resources>

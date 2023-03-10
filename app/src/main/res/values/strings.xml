@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="divide_zero">Cannot divine by zero</string>
+    <string name="TextView1">Input first number</string>
+    <string name="TextView2">Input second number</string>
+    <string name="textOperation">Input operation</string>
+    <string name="TextResult">Result:</string>
+    <string name="button">Calculate</string>
+    <string name="null_data">You forgot to field all fields</string>
+    <string name="wrong_operation">Check you operation, app can calculate operations: +,-,*,/</string>
+    <string name="wrong_format">Check you input data for correctness</string>
+
+</resources>
